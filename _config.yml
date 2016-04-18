@@ -1,0 +1,28 @@
+name: Digital_KickOff
+favicon: null
+layout_spectrum: 0.6544235434848815
+typography_spectrum: 0.23887011827901006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8453897475264966
+  lightness: 0.31561692571267486
+  saturation: 0.731232825666666
+  rhythmicContrast: 0.19419817184098065
+purpose: []
